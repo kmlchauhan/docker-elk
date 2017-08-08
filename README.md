@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Docker ELK stack
 
 [![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Elastic Stack version](https://img.shields.io/badge/ELK-5.5.1-blue.svg?style=flat)](https://github.com/deviantony/docker-elk/issues/158)
@@ -257,3 +258,6 @@ logstash:
   environment:
     LS_JAVA_OPTS: "-Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.port=18080 -Dcom.sun.management.jmxremote.rmi.port=18080 -Djava.rmi.server.hostname=DOCKER_HOST_IP -Dcom.sun.management.jmxremote.local.only=false"
 ```
+=======
+# docker-elk
+>>>>>>> 1184db4d5878449346a915fe9a5ce44629c8fc19
